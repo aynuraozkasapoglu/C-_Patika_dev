@@ -1,0 +1,14 @@
+C:\Users\aynurao\Desktop\Pratics\bin\Debug\net8.0\Pratics.exe
+C:\Users\aynurao\Desktop\Pratics\bin\Debug\net8.0\Pratics.deps.json
+C:\Users\aynurao\Desktop\Pratics\bin\Debug\net8.0\Pratics.runtimeconfig.json
+C:\Users\aynurao\Desktop\Pratics\bin\Debug\net8.0\Pratics.dll
+C:\Users\aynurao\Desktop\Pratics\bin\Debug\net8.0\Pratics.pdb
+C:\Users\aynurao\Desktop\Pratics\obj\Debug\net8.0\Pratics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynurao\Desktop\Pratics\obj\Debug\net8.0\Pratics.AssemblyInfoInputs.cache
+C:\Users\aynurao\Desktop\Pratics\obj\Debug\net8.0\Pratics.AssemblyInfo.cs
+C:\Users\aynurao\Desktop\Pratics\obj\Debug\net8.0\Pratics.csproj.CoreCompileInputs.cache
+C:\Users\aynurao\Desktop\Pratics\obj\Debug\net8.0\Pratics.dll
+C:\Users\aynurao\Desktop\Pratics\obj\Debug\net8.0\refint\Pratics.dll
+C:\Users\aynurao\Desktop\Pratics\obj\Debug\net8.0\Pratics.pdb
+C:\Users\aynurao\Desktop\Pratics\obj\Debug\net8.0\Pratics.genruntimeconfig.cache
+C:\Users\aynurao\Desktop\Pratics\obj\Debug\net8.0\ref\Pratics.dll
